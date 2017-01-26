@@ -13,12 +13,7 @@
 	<div id="root"></div>
 
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=visualization&key=AIzaSyAYA1eCg1ToFOxVfVxqZHzqNnNJFgnLNYw"></script>
-	<script src="/assets/js/jquery.min.js"></script>
-	<script src="/assets/js/jquery.poptrox.min.js"></script>
-	<script src="/assets/js/skel.min.js"></script>
-	<script src="/assets/js/util.js"></script>
-	<!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
-	<script src="/assets/js/main.js"></script>
+	<script src="/build/vendor.min.js"></script>
 	<script type="text/javascript" src="/build/bundle.js"></script>
   </body>
 </html>
